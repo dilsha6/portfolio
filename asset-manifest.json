@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.aa421065.css",
+    "main.js": "/portfolio/static/js/main.eccd3a80.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/suicide.png": "/portfolio/static/media/suicide.078cd26ea107989659ba.png",
+    "static/media/vectors__photos_and_PSD_files___Free_download-removebg-preview.png": "/portfolio/static/media/vectors__photos_and_PSD_files___Free_download-removebg-preview.4f8329372feccaba9b00.png",
+    "static/media/emotion.png": "/portfolio/static/media/emotion.587fa569ac8ddd3bfb28.png",
+    "static/media/aqwdXX6J-removebg-preview.png": "/portfolio/static/media/aqwdXX6J-removebg-preview.2c63af395d7c09546871.png",
+    "static/media/about.png": "/portfolio/static/media/about.a1c810dc8dce6ab983d3.png",
+    "static/media/Dilsha_K-1.pdf": "/portfolio/static/media/Dilsha_K-1.40c7e74df03e9818e44e.pdf",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.3afe5b23e4e01340dc54.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.1d8e811f678ec7234c69.png",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.2cafa1d51029b586ebad.png",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.8b0627acefdc956de90b.png",
+    "static/media/blog.png": "/portfolio/static/media/blog.bfde18bdda31c06f5e44.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.aa421065.css.map": "/portfolio/static/css/main.aa421065.css.map",
+    "main.eccd3a80.js.map": "/portfolio/static/js/main.eccd3a80.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa421065.css",
+    "static/js/main.eccd3a80.js"
+  ]
+}
