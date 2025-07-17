@@ -27,7 +27,8 @@ Welcome to my portfolio website! This site showcases my projects, skills, resume
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./Images/readme-img1.png)
+<img width="1855" height="845" alt="image" src="https://github.com/user-attachments/assets/8552b0c3-6c09-4123-a8c2-5a36f8f8482e" />
+
 
 ---
 
