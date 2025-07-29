@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website! This site showcases my projects, skills, resume, and contact information — built with modern web technologies and designed to be clean, responsive, and easy to maintain.
 
-[🔗 Live Preview](https://yourname.vercel.app)  
+[🔗 Live Preview](https://dilsha6.github.io/portfolio/)  
 ⭐ Star this repo if you like it!
 
 ---
